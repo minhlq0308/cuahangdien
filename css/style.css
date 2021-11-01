@@ -1735,7 +1735,7 @@ left: 2px!important;
     margin-top: 10px;
 }
 .notification {
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.35);
+box-shadow: 0 2px 4px 0 rgba(0,0,0,.35);
 background: #0f9a00;
 color: #fff;
 border-radius: 5px;

@@ -2592,3 +2592,10 @@ background: linear-gradient(#ffffff,#efefef 60%,#efefef 90%,#eee9e9);
 ._5line{
     -webkit-line-clamp:5;
 }
+
+/* submenu xem theo loại sản phẩm */
+
+.menu-products .loaded {
+    height: 120px;
+    width: 120px;
+}

@@ -2597,5 +2597,5 @@ background: linear-gradient(#ffffff,#efefef 60%,#efefef 90%,#eee9e9);
 
 .menu-products .loaded {
     height: 120px;
-    width: 120px;
+    object-fit: cover;
 }

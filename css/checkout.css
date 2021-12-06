@@ -6437,6 +6437,19 @@ td, th {
 .label-primary{
     background-color: #3c8dbc !important;
 }
+
+.label-info {
+    background-color: #17a2b8!important;
+}
+
+.label-secondary {
+    background-color: #6c757d!important;
+}
+
+.label-dark {
+    background-color: #000!important;
+}
+
  .message.message-error
 {
     background: #d34423;

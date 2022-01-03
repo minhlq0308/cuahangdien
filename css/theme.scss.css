@@ -10496,8 +10496,8 @@ ul> li> a >.filter-text > span{
 .productitem--image img.loaded{opacity: 1 !important;transition: opacity .2s ease;}
 .productitem--image img {
     display: block;
-    width: auto;
-    height: auto;
+    width: 223px;
+    height: 223px;
     max-width: 100%;
     max-height: 100%;
     margin: 0 auto;
@@ -11577,7 +11577,7 @@ ul> li> a >.filter-text > span{
     position:relative
 }
 .product-recently-viewed--section.hide{
-    display:none
+    display:block;
 }
 .product-recently-viewed--section .flickity-viewport{
     position:relative
